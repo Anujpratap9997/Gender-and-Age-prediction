@@ -16,8 +16,14 @@ During training, the model's performance is monitored using metrics such as accu
 <img width="320" alt="image" src="https://github.com/Anujpratap9997/Gender-and-Age-prediction/assets/86520878/4a706230-1414-4d85-bfe1-c90e39f14056">
 <img width="301" alt="image" src="https://github.com/Anujpratap9997/Gender-and-Age-prediction/assets/86520878/aa4ad1cf-2cac-4eb8-b142-2bc331731802">/
 
+## Output
+Output for one of the images from my dataset is shown here:\
+![image](https://github.com/Anujpratap9997/Gender-and-Age-prediction/assets/86520878/792d2ca8-91bb-4f9a-901c-38457a25b6b4)
+
+
 ## Conclusion
 
 This project demonstrates how to create a CNN model for gender and age classification using facial images. It highlights the importance of data preprocessing, model architecture, and evaluation metrics for successful model development.
+
 
 
